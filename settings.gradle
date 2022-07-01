@@ -1,0 +1,13 @@
+import org.gradle.api.initialization.resolve.RepositoriesMode
+
+dependencyResolutionManagement {
+    repositories {
+        repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        mavenCentral() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "project_2"
+include ':app'
