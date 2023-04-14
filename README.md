@@ -1,4 +1,4 @@
-The APP typically involve the following components
+Overview of the MEME App : 
 
 1.User Interface: The app would have a graphical user interface (GUI) that allows users to browse and view memes. 
 This would typically involve designing and implementing layouts using XML and Kotlin code.
