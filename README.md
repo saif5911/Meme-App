@@ -11,6 +11,6 @@ This could involve resizing, cropping, or applying filters to the image using a 
 
 4.User Interaction: Finally, the app would need to respond to user interaction, such as when a user clicks on a meme to view it in more detail or when they share a meme on any social media platform
 
-Overall, it is a fun and engaging platform for users to discover, share memes with a large community of like-minded individuals
+Overall, it is a fun and engaging platform for users to discover, share memes with a large community of like-minded individuals.
 
 ![Screenshot (317)](https://user-images.githubusercontent.com/91459143/231942234-3a8dbf44-aac0-417a-a393-c3766941426f.png)
